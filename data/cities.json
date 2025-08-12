@@ -37,16 +37,40 @@
       "id": 98443197
     },
     {
-      "cityName": "Puebla de Alfinden",
+      "cityName": "Alboran Sea",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2025-07-30T02:23:53.000Z",
-      "notes": "teste",
+      "date": "2025-08-12T01:49:58.059Z",
+      "notes": "",
       "position": {
-        "lat": "41.64007838467894",
-        "lng": "-0.7470703125000001"
+        "lat": "36.61552763134925",
+        "lng": "-4.350585937500001"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "La Rinconada",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-12T01:50:01.303Z",
+      "notes": "",
+      "position": {
+        "lat": "37.474858084971046",
+        "lng": "-5.888671875"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Swieszyno",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2025-08-12T01:50:06.613Z",
+      "notes": "",
+      "position": {
+        "lat": "54.09806018306312",
+        "lng": "16.149902343750004"
+      },
+      "id": 98443200
     }
   ]
 }
